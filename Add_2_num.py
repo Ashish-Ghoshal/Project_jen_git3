@@ -1,5 +1,5 @@
 #Program to add 2 numbers
 a=10
-b=20
+b=2500
 res=a+b
-print(res) #final result
+print("final change=",res) #final result
